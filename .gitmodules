@@ -1,6 +1,8 @@
 [submodule "test"]
 	path = test
 	url = git@github.com:Kareshma/test.git
+	branch = test
 [submodule "blob"]
 	path = blob
 	url = git@github.com:Kareshma/blob.git
+	branch = master
